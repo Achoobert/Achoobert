@@ -16,3 +16,5 @@ Skills:  JS / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=achoobert&show_icons=true)  
 
+My public key if you want to give me access to a device for some reason
+`ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJZHR2dUFIotEGESUD/CuYf52JVm/zWMgmz+HYESLq4I`
