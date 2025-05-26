@@ -1,4 +1,3 @@
-### Hi there 👋, my name is Isaac Schubert
 ![](https://www.digiserve.org/wp-content/uploads/2019/06/transparent-ds.jpg)
 
 Currently working in Digiserve Thailand 
