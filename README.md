@@ -9,6 +9,10 @@ Building tools that help people ship work (see [isaacschubert.com](https://isaac
 
 ![Simple Requests - Downloads@latest](https://img.shields.io/badge/dynamic/json?label=Simple%20Requests%20-%20Downloads@latest&query=assets%5B0%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAchoobert%2FFoundryVTT-Simple-requests%2Freleases%2Flatest)
 
+**[foundryvtt_blades68](https://github.com/Achoobert/foundryvtt_blades68)** — Foundry VTT module
+
+![Blades68 - Downloads@latest](https://img.shields.io/badge/dynamic/json?label=Blades68%20-%20Downloads@latest&query=assets%5B0%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAchoobert%2Ffoundryvtt_blades68%2Freleases%2Flatest)
+
 **[digihymnal.api](https://github.com/Achoobert/digihymnal.api)** — API layer for hymn / digital hymnal data.
 
 **[todo_printer](https://github.com/Achoobert/todo_printer)** — Raspberry pi to control a thermal printer.
